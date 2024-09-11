@@ -1,6 +1,6 @@
-SafeUpload
+Safe Upload
 
-SafeUpload adalah aplikasi web keren yang bikin upload file jadi gampang dan aman. Pake Dropzone.js buat manage file upload, plus ada filter buat nahan file-file yang bisa bikin server bermasalah.
+Safe Upload adalah aplikasi web keren yang bikin upload file jadi gampang dan aman. Pake Dropzone.js buat manage file upload, plus ada filter buat nahan file-file yang bisa bikin server bermasalah.
 
 Fitur Keren
 
@@ -19,7 +19,7 @@ Untuk Windows, macOS, dan Linux
 
 2. Masuk ke Folder Proyek
 
-   cd safeupload
+   cd Safe-Upload
 
 3. Instalasi Dependensi
 
@@ -31,7 +31,7 @@ Untuk Windows, macOS, dan Linux
 
    Start aplikasi dengan:
 
-   python app.py
+   ./server.sh
 
    Akses di http://localhost:6446.
 
@@ -55,7 +55,7 @@ Untuk Termux (Android)
 
 4. Masuk ke Folder Proyek
 
-   cd safeupload
+   cd Safe-Upload
 
 5. Instalasi Dependensi
 
@@ -65,7 +65,7 @@ Untuk Termux (Android)
 
    Start aplikasi dengan:
 
-   python app.py
+   ./server.sh
 
    Akses di http://localhost:6446.
 
