@@ -15,7 +15,7 @@ Untuk Windows, macOS, dan Linux
 
 1. Kloning Repositori
 
-   git clone https://github.com/username/safeupload.git
+   git clone [https://github.com/username/safeupload.git](https://github.com/satoribyte/Safe-Upload.git)
 
 2. Masuk ke Folder Proyek
 
@@ -51,7 +51,7 @@ Untuk Termux (Android)
 
 3. Kloning Repositori
 
-   git clone https://github.com/username/safeupload.git
+   git clone [https://github.com/username/safeupload.git](https://github.com/satoribyte/Safe-Upload.git)
 
 4. Masuk ke Folder Proyek
 
