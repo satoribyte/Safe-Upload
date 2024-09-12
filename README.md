@@ -1,15 +1,13 @@
-Safe Upload
+***Safe Upload*** adalah aplikasi web keren yang bikin upload file jadi gampang dan aman. Pake Dropzone.js buat manage file upload, plus ada filter buat nahan file-file yang bisa bikin server bermasalah.
 
-Safe Upload adalah aplikasi web keren yang bikin upload file jadi gampang dan aman. Pake Dropzone.js buat manage file upload, plus ada filter buat nahan file-file yang bisa bikin server bermasalah.
-
-Fitur Keren
+***Fitur***
 
 - Upload Otomatis: File langsung keupload begitu loe seret atau pilih file.
 - Filter File: Nolak file yang bisa berbahaya kayak .exe, .sh, .php, dan lain-lain.
 - Desain Kekinian: Tampilan yang kece pake Tailwind CSS, cocok buat semua perangkat.
 - Keamanan: Nahan file yang sering dipake buat nyerang.
 
-Cara Instal
+***Cara Instal***
 
 Untuk Windows, macOS, dan Linux
 
@@ -69,26 +67,26 @@ Untuk Termux (Android)
 
    Akses di http://localhost:6446.
 
-Cara Pakai
+***Cara Pakai***
 
 1. Buka aplikasi di browser (misalnya, http://localhost:6446).
 2. Seret file ke area Dropzone atau klik buat pilih file.
 3. File bakal diupload otomatis, dan loe tetap di halaman yang sama.
 
-Keuntungan
+***Keuntungan***
 
 - Keamanan: Nahan file yang bisa ngerusak server.
 - Mudah Dipakai: Tampilan yang user-friendly dan responsive.
 - Otomatis: File diupload otomatis tanpa ribet.
 - Desain Responsive: Tampilan bagus di semua ukuran layar.
 
-Kelemahan
+***Kelemahan***
 
 - Gak Ada Fitur Pembatalan: Sekali file ditambahkan, gak bisa dibatalin.
 - Keamanan File Terbatas: Filtrasi cuma berdasarkan ekstensi; mungkin perlu pemindaian lebih lanjut.
 - Penanganan Kesalahan Terbatas: Penanganan kesalahan masih basic; butuh perbaikan untuk pengalaman yang lebih oke.
 
-Kontribusi
+***Kontribusi***
 
 Mau bantu proyek ini?
 
@@ -98,10 +96,14 @@ Mau bantu proyek ini?
 4. Push ke branch (git push origin feature-branch).
 5. Buat pull request.
 
-Lisensi
+***Lisensi***
 
 Proyek ini dilisensikan di bawah MIT License - cek file LICENSE buat info lebih lanjut.
 
-Kontak
+***Kontak***
 
 Ada pertanyaan atau butuh bantuan? Hubungi di satoribyte@gmail.com.
+
+## Dukung Saya di Trakteer
+
+[![Trakteer Button](https://cdn-icons-png.flaticon.com/512/6098/6098529.png)](https://trakteer.id/deni_gentar_candana/tip?open=true)
